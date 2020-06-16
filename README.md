@@ -1,5 +1,5 @@
 # CP2406 Practicals
-## Second Year IT Learning Java | 2017
+## Second Year IT Subject Learning Java | 2017
 Overall Mark Distinction.
 
 Learnt the basics of java which in turn carried over to android development.
